@@ -1,6 +1,6 @@
 # Remote-Wifi-Stealer
 // This file when opened looks at the logs of wifi passwords located in the machine and send it back to an email
-> When an operating machine opens it it proceeds to look at "main.py" and after checking the credentials the logs will be sent to that adress
+> after running it proceeds to look at "main.py", checking the credentials and logs will be sent to that adress
 > you MUST use mailtrap.io
 >
 > ![image](https://user-images.githubusercontent.com/80414186/124387502-f3574300-dcac-11eb-99c3-05faf5114700.png)
