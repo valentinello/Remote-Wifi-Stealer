@@ -14,4 +14,4 @@
 
 > use { python setup.py build } to compile main.py
   
->  after running the compiled .exe filed in about 5/10 seconds the data will be sent, if the target see the source code of the file it inmmediately deletes itself to not expose our mail credentials
+
